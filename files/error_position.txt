@@ -1,0 +1,5 @@
+White: 1
+O9
+
+Black: 1
+A12
